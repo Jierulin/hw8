@@ -12,3 +12,5 @@ c. Why is a breadboard useful?
 It helps to connect different parts of components very easily. It also helps to organize the wires and the components once there are a lot going on at the same time.
 
 d. Identify at least least 2 things you did not understand from the reading
+  1. What does the codes mean and do. 
+  2. What's the logic behind the breadboard layout? 
